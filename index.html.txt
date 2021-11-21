@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>The Biggest Wave In The World</title>
+</head>
+<body>
+<h1>Big Wave Surfing</h1>
+<h2>What Is Big Wave Surfing</h2>
+Big wave surfing is a discipline within surfing in which experienced surfers paddle into, or are towed into, waves which are at least 20 feet (6.2 m) high, on surf boards known as "guns" or towboards.[1] Sizes of the board needed to successfully surf these waves vary by the size of the wave as well as the technique the surfer uses to reach the wave. A larger, longer board allows a rider to paddle fast enough to catch the wave and has the advantage of being more stable, but it also limits maneuverability and surfing speed.
+</body>
+</html>

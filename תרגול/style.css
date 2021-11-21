@@ -1,0 +1,22 @@
+img{
+		width:250px;
+		border:2px solid blue;	
+		
+}
+html { 
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1613fd00-af70-4654-840d-6d5959573075/dc79z6g-0b38b967-62ed-4873-9983-ff2c566d9e2d.png/v1/fill/w_1192,h_670,q_70,strp/cukur_wallpaper_by_recepgocendesign_dc79z6g-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzE2MTNmZDAwLWFmNzAtNDY1NC04NDBkLTZkNTk1OTU3MzA3NVwvZGM3OXo2Zy0wYjM4Yjk2Ny02MmVkLTQ4NzMtOTk4My1mZjJjNTY2ZDllMmQucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2hdq0v6kFXS9reclJyoY-yg5-R-izpFsQrpwAs-S4Iw) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.title { 
+  background-color: black;
+  color: #fff; 
+  display: inline;
+  padding: 0.5rem;
+  font-size:24px;
+  font-family:arial;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}

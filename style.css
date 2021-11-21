@@ -1,0 +1,30 @@
+img{
+		width:250px;
+		border:2px solid blue;	
+}
+body {
+	background-color:#00ffff;
+	font-family:Arial;
+	
+	
+	
+}
+.red{
+	color:red;
+	
+	
+	
+	
+}
+.big_font{
+	font-size:32px;
+	
+	
+}
+#special_style{
+	border:2px solid red;
+	background-color:yellow;
+	width:40%;
+	
+	
+}
